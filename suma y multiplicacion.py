@@ -9,3 +9,7 @@ v4=int(input("ingrese el valor 4 : "))
 #obtenemos la sumatoria
 suma = v1 + v2 + v3 + v4
 
+#obtenemos la multiplicacion
+multiplicacion = v1 * v2 * v3 * v4 
+
+
