@@ -12,4 +12,8 @@ suma = v1 + v2 + v3 + v4
 #obtenemos la multiplicacion
 multiplicacion = v1 * v2 * v3 * v4 
 
+#mostrar la suma y multiplicacion de valores
+
+print("la suma de valores", suma)
+print("la multiplicacion de valores", multiplicacion)
 
