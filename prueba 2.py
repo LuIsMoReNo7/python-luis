@@ -11,7 +11,7 @@ print("la suma =  ",end="")
 s = 0
 #generamos la serie
 for s in range(1,n):
-      print(n,"+",n-1, "0",n+(n-1))
+      print(actual,"+",actual -1, "=",actual+(anterior-1))
       
      
      
