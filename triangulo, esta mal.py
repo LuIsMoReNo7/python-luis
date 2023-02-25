@@ -1,6 +1,6 @@
 #ingresamos la cantidad de filas 
 n = int(input("cuantas filas quieres?"))
-#fila que es el mismo numeo que el de columnas
+#fila que es el mismo numero que el de columnas
 a=1
 #cantidad de numeros que hay que imprimir
 b=2
